@@ -1,4 +1,4 @@
-### Olá, meu nome é João Victor. No momento sou estagiário, estudando C#. 😁 
+### Olá, meu nome é João Victor, atualmente sou Desenvolvedor .NET Jr. e estou estudando para me tornar pleno! 😁 
 
 - 🔭 I’m currently working on back-end.
 - 🌱 I’m currently learning C# .NET
